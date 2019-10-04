@@ -6,9 +6,9 @@ It was a challenge getting the functionality of the game up and running, but I t
 
 A video of the game in action can be seen below which plays through to winning (click the image).
 
-[![Simon Says Win](https://img.youtube.com/vi/cHEQuBUG79g.jpg)](https://www.youtube.com/watch?v=cHEQuBUG79g)
+[![Simon Says Win](https://img.youtube.com/vi/cHEQuBUG79g/0.jpg)](https://www.youtube.com/watch?v=cHEQuBUG79g)
 
 and a game with a lose condition:
 
-[![Simon Says Lose](https://img.youtube.com/vi/_-HvaBPqP7w.jpg)](https://www.youtube.com/watch?v=_-HvaBPqP7w)
+[![Simon Says Lose](https://img.youtube.com/vi/_-HvaBPqP7w/0.jpg)](https://www.youtube.com/watch?v=_-HvaBPqP7w)
 
